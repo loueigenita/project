@@ -3,7 +3,12 @@
 @section('content')
 
     <section>
-        <img src="{{asset('image\pioneer2.jpg')}}" alt="pioneer2">
+        <img src="{{asset('image\dj400.jpg')}}" height="180px" alt="pioneer2">
+        <img src="{{asset('image\djsx.jpg')}}" height="182px" alt="djsx">
+        <img src="{{asset('image\sb3.jpg')}}" height="200px" alt="sb3">
+        <img src="{{asset('image\sb.jpg')}}" height="200px" alt="sb">
+        <img src="{{asset('image\s.jpg')}}" height="200px" alt="s">
+        <img src="{{asset('image\dj1000.jpg')}}" height="200px" alt="dj1000">
     </section>
 
 
